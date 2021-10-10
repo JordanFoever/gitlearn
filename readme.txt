@@ -4,6 +4,7 @@ i like play game.
 git tracks changs of files.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 craete a new branch is quick and simple.
 =======
 craete a new branch is quick and simple.
@@ -12,4 +13,8 @@ craete a new branch is quick and simple.
 =======
 craete a new branch is quick and simple.
 hh
+>>>>>>> dev
+=======
+craete a new branch is quick.
+hhh
 >>>>>>> dev
